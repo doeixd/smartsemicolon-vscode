@@ -173,5 +173,6 @@ languageParsers.set('csharp', clangFamilyParser);
 languageParsers.set('java', clangFamilyParser);
 languageParsers.set('javascript', clangFamilyParser);
 languageParsers.set('typescript', clangFamilyParser);
+languageParsers.set('rust', clangFamilyParser);
 
 const statusBarItemTitle = 'Smart Semicolon';
